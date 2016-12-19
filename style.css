@@ -1,27 +1,26 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
-      background-size: cover;
-      color: white;
+
+      color:#8B0000;
     }
     .nav {
-      color: white;
+      color: black;
     }
     h1 {
-      font-size: 70px;
+      font-size:90px;
     }
     img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      margin:0px 0px 0px 0px;
+      border-radius: 0px;
+      height:400px;
     }
     ul {
-      padding: 10px;
-      background: rgba(0,0,0,0.5);
+      padding: 20px;
+      background: #8B0000;
     }
     li {
       display: inline;
-      padding: 0px 10px 0px 10px;
+      padding: 10px 60px 7px 67px;
     }
     div{
       max-width: 500px;
@@ -30,8 +29,8 @@
     }
     @media (max-width: 500px) {
       h1 {
-        font-size: 36px;
-        padding: 5px;
+        font-size: 99px;
+        padding: 1px;
       }
       li {
         padding: 5px;
